@@ -1,0 +1,2 @@
+# Resolusi
+Resolusi tahun ini
