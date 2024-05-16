@@ -5,3 +5,4 @@ resolusi b terbaru
 - squat
 - tidur teratur
 - makan teratur
+- r programming
