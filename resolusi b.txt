@@ -1,10 +1,8 @@
 resolusi b terbaru
 
 - jogging
-- push up
 - push up 10
-- squat
-- squat 150
+- squat 50
 - tidur teratur
 - makan teratur
 - r programming
